@@ -1,0 +1,267 @@
+[33mcommit fd29dded207f23d8ea8601057f221d169487f016[m[33m ([m[1;36mHEAD -> [m[1;32msubtask1[m[33m, [m[1;31morigin/subtask1[m[33m)[m
+Merge: ebf19b3 66d72c2
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 09:48:14 2022 +0530
+
+    Merge pull request #35 from Kuber144/subtask1
+    
+    Kuber144 completed Subtask-1
+
+[33mcommit ebf19b39d2fe0e35024613332bab1857ff626b95[m
+Merge: 0a98c26 ca4fc60
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 09:43:09 2022 +0530
+
+    Merge pull request #58 from Parvish-Kakarapalli/subtask1
+    
+    TASK 2(1)
+
+[33mcommit 66d72c281e6b80ebc4df06f5b66c8556fa7a2a16[m
+Merge: d9e2f5c 0a98c26
+Author: Kuber144 <96476340+Kuber144@users.noreply.github.com>
+Date:   Thu Jan 13 09:41:26 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit ca4fc60af26fd8a17da2a2d17766a6d5eaa19395[m
+Author: Parvish Kakarapalli <parvish2004@gmail.com>
+Date:   Thu Jan 13 08:51:44 2022 +0530
+
+    TASK 2(1)
+
+[33mcommit 0a98c26eb7532430427a2141cbac732bda6eb0d6[m
+Merge: 337cdec d72b03e
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 01:37:34 2022 +0530
+
+    Merge pull request #25 from rajat397/subtask1
+    
+     subtask1 completed
+
+[33mcommit d72b03ea2822e2babbdfdfc221ed2019af0cd665[m
+Merge: 501a9c8 337cdec
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 01:37:28 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit 501a9c8e7326da0f4107f31b6939306fac6c538f[m
+Merge: 76a2814 d4f50cc
+Author: Rajat Srivastava <93068214+rajat397@users.noreply.github.com>
+Date:   Thu Jan 13 01:35:04 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit 337cdec66a712ba82f166388b9ceb2c5da65747f[m
+Merge: e14660f 48c2f48
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 01:30:13 2022 +0530
+
+    Merge pull request #22 from prakriti583/subtask1
+    
+    subtask1 done
+
+[33mcommit 48c2f48c03a5ef7d2c55e5426c27e731105fa34e[m
+Merge: 5606ca9 e14660f
+Author: prakriti583 <97447737+prakriti583@users.noreply.github.com>
+Date:   Thu Jan 13 01:28:52 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit e14660f9b74d0561e391d450c7629e33c4c3f70f[m
+Merge: d4f50cc 370a14c
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 01:09:31 2022 +0530
+
+    Merge pull request #45 from itsme1502/subtask1
+    
+    subtask1
+
+[33mcommit 370a14ce86a56d02dadb2d808fee971a445c1767[m
+Merge: 431d13f d4f50cc
+Author: itsme1502 <97404768+itsme1502@users.noreply.github.com>
+Date:   Thu Jan 13 01:09:07 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit d9e2f5cd5b231443d2365bce0e4807fe2e071e51[m
+Merge: 22285ba d4f50cc
+Author: Kuber144 <96476340+Kuber144@users.noreply.github.com>
+Date:   Thu Jan 13 01:05:18 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit 431d13f2b6fe2ad8464457ddfd1e14663a017f90[m
+Author: itsme1502 <Harshitshankrit@gmail.com>
+Date:   Thu Jan 13 01:01:53 2022 +0530
+
+    subtask1
+
+[33mcommit d4f50cc313111100be3dc461e3eefab89778f019[m
+Merge: e699492 ef923cc
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:38:57 2022 +0530
+
+    Merge pull request #16 from tsunami03/subtask1
+    
+    tsunami03 completed subtask-1
+
+[33mcommit e699492d95ade6bb6c630ae8fb20b98e822b070d[m
+Merge: ebd0e2d 60aa206
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:38:05 2022 +0530
+
+    Merge pull request #14 from Shubhankit-Pandey/subtask1
+    
+    For Subtask 1
+
+[33mcommit ebd0e2dde7ad39c3640fe3aa801e77e3570cfd61[m
+Merge: bec6a91 20032a4
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:35:16 2022 +0530
+
+    Merge pull request #20 from RUDDY29/subtask1
+    
+    subtask1
+
+[33mcommit bec6a912549ae945a8c68c750930d356d99c9ead[m
+Merge: e547b04 ad14b95
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:34:14 2022 +0530
+
+    Merge pull request #19 from error-guy/subtask1
+    
+    subtask1 completed
+
+[33mcommit e547b04ab20744761b09165e82f2ac945bdd3d51[m
+Merge: 76b98cf e936014
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:29:43 2022 +0530
+
+    Merge pull request #9 from indrasn0wal/subtask1
+    
+    Subtask1
+
+[33mcommit 22285bac1908cb552ba5547cd02440640795db7f[m
+Merge: aabce57 76b98cf
+Author: Kuber144 <96476340+Kuber144@users.noreply.github.com>
+Date:   Thu Jan 13 00:23:16 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit 76b98cfbcb3f562ae67ac50a000108307ed44dcd[m
+Merge: d04ce9e 55d017e
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:18:40 2022 +0530
+
+    Merge pull request #7 from BuddyLongLegs/subtask1
+    
+    Day 2 Task 1
+
+[33mcommit 55d017e90f25368d16d8747386f89b638bb5ae8b[m
+Merge: f43bc20 d04ce9e
+Author: Anurag Jain <76420937+BuddyLongLegs@users.noreply.github.com>
+Date:   Thu Jan 13 00:16:44 2022 +0530
+
+    Merge branch 'subtask1' into subtask1
+
+[33mcommit 76a28143b355455675741838a6eb7940ceb2e3cc[m
+Author: rajat397 <rajat242003@gmail.com>
+Date:   Thu Jan 13 00:16:04 2022 +0530
+
+     subtask1 completed
+
+[33mcommit 5606ca94ad432aa9685aa579833560a69e0eecf7[m
+Author: Prakriti583 <prakriti.vashishtha19@gmail.com>
+Date:   Thu Jan 13 00:12:53 2022 +0530
+
+    subtask1 done
+
+[33mcommit d04ce9efcbb26746449e39eee78b8a7215cdd547[m
+Merge: e8146b8 0bb464a
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Thu Jan 13 00:12:20 2022 +0530
+
+    Merge pull request #5 from sparsh803/subtask1
+    
+    sparsh803 completed subtask1
+
+[33mcommit 20032a45d87a4f7fa55d2d24e2a9deb2bc83f6f8[m
+Author: Vaibhav <vaibhav_pandey@outlook.in>
+Date:   Thu Jan 13 00:11:42 2022 +0530
+
+    subtask1
+
+[33mcommit e8146b8ab7afa0a8525e1a3a778415672dcc1b91[m
+Author: Raghav Goel <75788719+raghavgoel25@users.noreply.github.com>
+Date:   Thu Jan 13 00:11:15 2022 +0530
+
+    Update README.md
+
+[33mcommit ad14b953f8a3c3ed26cfe02e9d205bde3ddd3884[m
+Author: error-guy <chanakyasomepalli1234@gmail.com>
+Date:   Thu Jan 13 00:10:10 2022 +0530
+
+    subtask1 completed
+
+[33mcommit ef923ccd383d3373d496ed69327ef95112521fb7[m
+Author: tsunami03 <priyadarshini.roy03@gmail.com>
+Date:   Thu Jan 13 00:07:53 2022 +0530
+
+    tsunami03 completed subtask-1
+
+[33mcommit aabce57f25e919ad54827632f83768737387e170[m
+Author: Kuber144 <kuberjain144@gmail.com>
+Date:   Wed Jan 12 23:56:25 2022 +0530
+
+    Commit subtask-1
+
+[33mcommit 60aa206ea383baa76be105cd488c95118e60849c[m
+Author: Shubhankit Pandey <shubhankitpandey15@gmail.com>
+Date:   Wed Jan 12 23:54:13 2022 +0530
+
+    For Subtask 1
+
+[33mcommit e936014d26ca42273b099ae553196e3faff3f204[m
+Author: indrasn0wal <indra.lav2003@gmail.com>
+Date:   Wed Jan 12 23:52:33 2022 +0530
+
+    indrasn0wal subtask1 completed
+
+[33mcommit 243b096a5163f2cc05e9a49c167e350ec45c923d[m
+Author: indrasn0wal <indra.lav2003@gmail.com>
+Date:   Wed Jan 12 23:43:16 2022 +0530
+
+    indrasn0wal subtask1 complete
+
+[33mcommit f43bc202be787c95b66e3bdeb4b8440bbca9c6cc[m
+Author: BuddyLongLegs <76420937+anurag10jain@users.noreply.github.com>
+Date:   Wed Jan 12 23:38:23 2022 +0530
+
+    task 1
+
+[33mcommit 0bb464a056098ea17623fe95a3d3bc83e4693f58[m
+Author: sparsh803 <sparshg2003@gmail.com>
+Date:   Wed Jan 12 21:58:35 2022 +0400
+
+    subtask1 commit
+
+[33mcommit 74ef39976e52717f17c00cafd725e523b55f0c47[m
+Author: ABHAY SINGH <75938293+ABHAY0O7@users.noreply.github.com>
+Date:   Wed Jan 12 18:44:17 2022 +0530
+
+    Update README.md
+
+[33mcommit 7421245d2f229cba7b50b2a507635afb34fca959[m
+Author: Abhay singh <abhaysingh936851@gmail.com>
+Date:   Wed Jan 12 18:14:03 2022 +0530
+
+    Added pr template
+
+[33mcommit 6479151e8d8748b3f9bd1d92bb611c8414cae0f6[m
+Author: Shashwat Mittal <74846797+shashwat-mittal@users.noreply.github.com>
+Date:   Wed Jan 12 17:10:48 2022 +0530
+
+    Update participants.html
+
+[33mcommit 8201748499c603a2b3efe346a1742116eb65dfad[
